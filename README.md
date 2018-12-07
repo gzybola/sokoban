@@ -1,2 +1,3 @@
 # sokoban
-sokoban implementation in haskell using CodeWorld template. Check out at https://code.world/haskell
+sokoban implementation in haskell using CodeWorld environment. 
+Check out: https://code.world/haskell
