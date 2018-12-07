@@ -1,3 +1,3 @@
 # sokoban
-sokoban implementation in haskell using CodeWorld environment. 
+sokoban implementation written in haskell using CodeWorld environment. 
 Check out: https://code.world/haskell
