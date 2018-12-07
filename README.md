@@ -1,2 +1,5 @@
 # sokoban
-sokoban implementation in haskell using CodeWorld template. Check out at https://code.world/haskell
+sokoban implementation written in haskell using CodeWorld environment.
+Many levels, checking reasonableness of mazes, recalls, restarts.
+
+Check out: https://code.world/haskell
