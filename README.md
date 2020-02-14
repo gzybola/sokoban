@@ -1,8 +1,16 @@
 # Sokoban
 Game implementation written in haskell using CodeWorld environment, the second version is designed for command line.  
   
-Many levels, checking reasonableness of mazes, undo, restarts.
-
+Many levels, checking reasonableness of mazes, undo, restarts.  
+  
+For cmd there are following characters:  
+```@ - player  
+o - storage  
+x - box  
+  - blank  
+# - wall  
+- - ground  
+````
 ![alt text](https://github.com/gzybola/sokoban/blob/master/Screenshot%20from%202018-12-07%2015-28-38.png)
 
 Check out: [codeworld](https://code.world/haskell)  
